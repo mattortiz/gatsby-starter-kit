@@ -2,6 +2,6 @@
 name: footerLinks
 ---
 
-- Github repo: [gatsby-starter-kit](https://github.com/greglobinski/gatsby-starter-kit)
-- Built by [greg lobinski](https://www.greglobinski.com)
-- [Front-end development](https://dev.greglobinski.com) with Greg
+- Portfolio: [recent work](https://www.mattortiz.com/portfolio)
+- GitHub account: [mattortiz](https://github.com/mattortiz)
+- GitLab account: [mattortiz](https://gitlab.com/mattortiz)

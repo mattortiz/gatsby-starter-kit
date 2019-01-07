@@ -1,8 +1,12 @@
 ---
-title: About
+title: About Me
 categories: ['main']
 ---
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Equal parts creative, technical and entrepreneurial, with a proven record of bridging business, technology, and desire. Defined by a creative energy and informed by deep practitioner experience — driven to continuously improve.
 
-Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.
+**Practitioner.** I’ve spent much of my career driving the conceptualization, design, and development of new products, services, and business offerings including IoT; commercial, consumer and industrial solutions; digital transformation; and application portfolio modernization and rationalization.
+
+**Relationship Builder.** A forward-thinking leader with a trusted global business, design, and technical network.
+
+**Innovator.** Fosters an agile mindset, inculcating a cohesive and accountable culture that empowers individuals to engage in the “why” and “how proactively,” to experiment with iterative designs and prototypes – and to test assumptions continuously.

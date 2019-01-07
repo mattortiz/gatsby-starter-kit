@@ -2,8 +2,8 @@
 name: hero
 ---
 
-# Welcome to GatsbyJS Starter Kit
+# Welcome to Envy Forge
 
-It's a series of starters for GatsbyJS: Minimal, Equipped, Themed, Website and Blog. It's 5 in 1!
+Where I share information on my opinions, practices, interests, and what I've been up to.
 
 [more](./about)

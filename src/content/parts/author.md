@@ -2,4 +2,4 @@
 title: author
 ---
 
-**Greg Lobinski** - I'm a front-end web developer. Follow me at [@greglobinski](https://twitter.com/greglobinski) if you want to be informed about new articles. I'm open to any suggestions from you. Do not hesitate to tell me what you think.
+**Matt Ortiz** - I'm a creative product leader. Follow me at [@ma77or7iz](https://twitter.com/ma77or7iz) if you want to keep up on new content. Don't hesitate to hit me up.

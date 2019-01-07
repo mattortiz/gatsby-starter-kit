@@ -1,21 +1,21 @@
 const base = {
-  name: 'Gatsby Starter Kit',
-  url: 'https://github.com/greglobinski/gatsby-starter-kit'
+  name: 'Envy Forge @ mattortiz.com',
+  url: 'https://www.mattortiz.com',
 };
 
 const config = {
   /* meta tags */
-  siteTitle: `${base.name} - a set of starters for Gatsby.js`,
+  siteTitle: `${base.name} - a place to get to know Matt`,
   siteTitlePostfix: ` - ${base.name}`,
   siteDescription: `${
     base.name
-  } is a set of starters: Minimal, Equipped, Themed, Website, Blog.`,
+  } where I keep things up to date: Portfolio, Blog, Docs, and Project information.`,
   siteImage: 'preview.jpg',
   siteLanguage: 'en',
 
   /* site header */
   headerTitle: `${base.name}`,
-  headerSubTitle: 'a set of starters for Gatsby.js',
+  headerSubTitle: 'a place to get to know Matt',
 
   /* url */
   siteUrl: base.url,
@@ -23,7 +23,7 @@ const config = {
 
   /* manifest */
   manifestName: `${base.name}`,
-  manifestShortName: 'GatsbyKit', // max 12 characters
+  manifestShortName: 'EnvyForge', // max 12 characters
   manifestStartUrl: '/index.html',
   manifestBackgroundColor: '#ffffff',
   manifestThemeColor: '#ffffff',
@@ -31,7 +31,7 @@ const config = {
   manifestIcon: 'src/content/images/icon.png',
 
   /* Twitter */
-  twitter: '' // used as content of the 'twitter:creator' meta tag
+  twitter: '@ma77or7iz', // used as content of the 'twitter:creator' meta tag
 };
 
 module.exports = config;
